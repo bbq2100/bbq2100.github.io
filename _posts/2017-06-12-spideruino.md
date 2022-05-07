@@ -20,7 +20,7 @@ At this point you might be asking *what the heck is a [ESP8266](https://en.wikip
 ### Demo Time!
 Before explaining all of the nitty gritty details, first have a look at the final "result"
 
-<iframe width="600" height="415" src="http://www.youtube.com/embed/oVFrtwVP7xY" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="415" src="https://www.youtube.com/embed/oVFrtwVP7xY" frameborder="0" allowfullscreen></iframe>
 
 ### ELI5: How did you build it?
 
